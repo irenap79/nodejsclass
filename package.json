@@ -1,5 +1,5 @@
 {
-  "name": "rouxstart",
+  "name": "nodejsclass",
   "version": "0.0.0",
   "description": "A simple node & express website",
   "main": "app.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/planetoftheweb/rouxstart.git"
   },
-  "author": "Ray Villalobos",
+  "author": "Irena Pashchenko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/planetoftheweb/rouxstart/issues"
@@ -19,5 +19,12 @@
   "dependencies": {
     "express": "^4.2.0",
     "ejs": "^1.0.0"
-  }
+  },
+  "keywords": [
+    "training",
+    "in",
+    "nodejs",
+    "and",
+    "express"
+  ]
 }
